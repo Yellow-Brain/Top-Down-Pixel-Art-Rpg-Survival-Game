@@ -1,0 +1,7 @@
+echo "# Top-Down-Pixel-Art-Rpg-Survival-Game" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Yellow-Brain/Top-Down-Pixel-Art-Rpg-Survival-Game.git
+git push -u origin main
